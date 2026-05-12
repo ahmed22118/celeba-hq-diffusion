@@ -6,8 +6,8 @@ A complete implementation of a Denoising Diffusion Probabilistic Model (DDPM) tr
 
 ## Demo
 
-🤗 Live Demo: [Hugging Face Spaces](https://huggingface.co/spaces/yourusername/ddpm-face-generator)  
-📖 Technical Blog: [Medium](https://medium.com/@yourusername/ddpm-face-generation)
+🤗 Live Demo: https://huggingface.co/spaces/ahmed22118/celeba-hq-diffusion
+📖 Technical Blog: https://medium.com/p/6250d8063f56?postPublishedType=initial
 
 ---
 
